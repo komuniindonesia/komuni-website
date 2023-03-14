@@ -1,0 +1,15 @@
+.featureTitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.15px;
+  color: rgba(38, 34, 30, 0.87);
+}
+
+.featureDescription {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.15px;
+  color: rgba(38, 34, 30, 0.6);
+}
